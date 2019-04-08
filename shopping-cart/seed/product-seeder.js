@@ -7,37 +7,37 @@ var products = [
 		imagePath:'./images/pens.jpg',
 		title:'Pens',
 		description:'Space Pen Bullet Chrome Finish',
-		price: 2
+		price: 100
 		}),
 	new Product({
 		imagePath:'./images/book.jpg',
 		title:'Books',
 		description:'The Cartoon Guide to Physics',
-		price: 2
+		price: 100
 		}),
 	new Product({
 		imagePath:'./images/marker.jpg',
 		title:'Markers',
 		description:'Camlin Permanent Marker Black',
-		price: 2
+		price: 100
 		}),
 	new Product({
 		imagePath:'./images/pens.jpg',
 		title:'Pens',
 		description:'Space Pen Bullet Chrome Finish',
-		price: 2
+		price: 100
 		}),
 	new Product({
 		imagePath:'./images/book.jpg',
 		title:'Books',
 		description:'The Cartoon Guide to Physics',
-		price: 2
+		price: 100
 		}),
 	new Product({
 		imagePath:'./images/marker.jpg',
 		title:'Markers',
 		description:'Camlin Permanent Marker Black',
-		price: 2
+		price: 100
 		}),
 ];
 var done=0;

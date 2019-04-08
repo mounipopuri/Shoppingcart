@@ -17,6 +17,7 @@ var MongoStore = require ('connect-mongo')(session);
 
 var routes=require('./routes/index');
 var userRoutes=require('./routes/user');
+//var url = require('https://www.pay2all.in/web-api/send_sms?api_token=SQ4pM33pDHYdlvYhgeC5H2AzLXiBOjqIacY5TQMu0qrHsST2VAM20CGGw0a1&senderid=ASDFGH&number=9618146145&message=Your order has been placed successfully&route=4')
 
 var app = express();
 mongoose.connect('mongodb://localhost:27017/shopping', { useNewUrlParser: true });
